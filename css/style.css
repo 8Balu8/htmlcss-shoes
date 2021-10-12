@@ -18,7 +18,7 @@
     transform: translate(-50%, -50%);
 }
 
-/* Box Items */
+/* CONTAINER ITEMS */
 .container.differente {
     background-color: red;
 }
@@ -57,7 +57,7 @@
     font-weight: bold;
 }
 
-/* Text Item */
+/* TEXT */
 .box-item h2 {
     text-align: center;
     text-transform: uppercase;
